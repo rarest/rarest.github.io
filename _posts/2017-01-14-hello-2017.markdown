@@ -2,7 +2,7 @@
 layout:     post
 title:      "Welcome to Rareat Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-14 19:46:00:
+date:       2015-01-14 19:46:00
 author:     "rarest"
 header-img: "img/post-bg-2015.jpg"
 tags:
